@@ -28,7 +28,7 @@ This is a website that sells clothes for women in the style of Korean youth. Inc
 
  - [Customer UI](./customer.jpg)
 
- - [Admin Pannel](./admin.jpg)
+ - [Admin Pannel](https://github.com/minhlam3118410220/KStyle_Shop/blob/main/admin.jpg)
 
 
 
