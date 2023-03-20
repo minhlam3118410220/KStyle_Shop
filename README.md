@@ -26,13 +26,15 @@ This is a website that sells clothes for women in the style of Korean youth. Inc
 
 ## Overview Website
 
- - [Customer UI](./customer.jpg)
+ - Customer UI
+    <p align="center">
+      <img src="./customer.jpg" width="100%" title="hover text">
+     </p>
 
- - [Admin Pannel](https://github.com/minhlam3118410220/KStyle_Shop/blob/main/admin.jpg)
+ - Admin Pannel
 
   <p align="center">
-  <img src="./customer.jpg" width="350" title="hover text">
-  
+  <img src="./admin.jpg" width="100%" title="hover text">
   </p>
 
 
